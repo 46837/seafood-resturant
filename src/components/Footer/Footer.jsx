@@ -107,9 +107,7 @@ const Footer = () => {
          
           </Col>
       </Container>
-      <p className="copyright__text">
-               Developed by Nada Hesham ©2023. All Rights Receved.
-            </p>
+    
     </footer>
   );
 };
